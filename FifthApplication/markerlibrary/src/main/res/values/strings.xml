@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Marker Library</string>
+    <string name="access_token"></string>
+    <string name="email_id"></string>
+    <string name="application_id"></string>
+
+</resources>
