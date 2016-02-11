@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Fourth Application</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="access_token">CG1XmDYUebNjtBpOggeWs_VifdYCBbjUYeGBZbsgXCS_d8sp7UwfgBqwGu9XddVe9QgOmcqTpy71035y54z-AKMiV0h_FiP-C7rdc4vHRiE=</string>
+    <string name="email_id">dummy.dummy@gmail.com</string>
+    <string name="application_id">acnt:7iapym59warhnr</string>
+
+
+</resources>
